@@ -67,7 +67,7 @@ function getBaseUrl(url: string): string {
 try {
 // Example usage
     (async () => {
-        const url = 'https://jugendhackt.org';
+        const url = 'https://example.test';
         const hrefs = await scrapeHrefAttributesFromWebsite(url);
         let newSec;
         let timeCount;
