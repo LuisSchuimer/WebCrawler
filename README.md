@@ -26,7 +26,8 @@ or
 1. Run `npm install` or `npm i` in your terminal
 
 ### 4. Run the Crawler
-1. Run `npx esrun main.ts` in your terminal
+1. Replace the sample URL with the one you want to start with (IMPORTANT: There needs to be `https://` before the URL if there is none)
+3. Run `npx esrun main.ts` in your terminal
 
 ### 5. Run the Image Downloader (Optional)
 1. Run `npx esrun getimg.ts` in your terminal
